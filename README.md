@@ -1,4 +1,4 @@
-# PowerMem
+# PowerContext
 
 **Persistent, self-evolving memory for AI agents and applications.**
 
